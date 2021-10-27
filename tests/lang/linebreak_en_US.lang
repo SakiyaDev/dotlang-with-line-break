@@ -1,0 +1,4 @@
+test.linebreak = haha im a \nline break
+test.lineb = haha im a \n line break
+test.noline = haha no line
+test.multiple = haha \n multiple \n line \n breaks

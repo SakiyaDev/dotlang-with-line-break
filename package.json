@@ -1,0 +1,26 @@
+{
+  "name": "dotlang-with-line-break",
+  "version": "1.0.3",
+  "description": "this is a fork of the original dotlang lib that supports line breaks. dotlang is a file parser for .lang files",
+  "main": "lib/main.js",
+  "types": "types",
+  "author": {
+    "name": "SakiyaDev"
+  },
+  "license": "AGPL-3.0-or-later",
+  "keywords": [
+    "dotlang",
+    ".lang"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SakiyaDev/dotlang-with-line-break.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SakiyaDev/dotlang-with-line-break/issues"
+  },
+  "homepage": "https://github.com/SakiyaDev/dotlang-with-line-break#readme",
+  "engines": {
+    "node": "17.0.1"
+  }
+}
