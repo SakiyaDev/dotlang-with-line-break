@@ -14,7 +14,7 @@ npm i dotlang-with-line-break
 ## Usage
 
 ```js
-const dotlang = require('dotlang')
+const dotlang = require('dotlang-with-line-break')
 
 const single = dotlang.parse('path/to/dotlang/file.lang')
 console.log(single)
